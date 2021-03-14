@@ -1,7 +1,7 @@
 <h1> 📷 Photo Gallery </h1>
 
 <h5>
-  Course by: <a href="https://www.udemy.com/user/cod3r-3/">Cod3r Cursos Online</a> | Teacher: <a href="https://www.udemy.com/course/curso-web/#instructor-2">Leonardo Moura Leitao</a>
+  :octocat: Course by: <a href="https://www.udemy.com/user/cod3r-3/">Cod3r Cursos Online</a> | Teacher: <a href="https://www.udemy.com/course/curso-web/#instructor-2">Leonardo Moura Leitao</a>
 </h5>
 
 <p>
